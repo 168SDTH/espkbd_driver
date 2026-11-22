@@ -1,4 +1,4 @@
-# espkbd_drive
+# espkbd_driver
 基于python的mania4k串口键盘驱动程序
 ## 使用方法
 1. 安装依赖
